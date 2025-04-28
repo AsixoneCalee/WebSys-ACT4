@@ -1,0 +1,30 @@
+[
+    {
+        "id": "1",
+        "title": "Perfume: The Story of a Murderer",
+        "author": "Tom Tykwer",
+        "genre": "Crime, Drama, Fantasy",
+        "available": "true"
+    },
+    {
+        "id": "2",
+        "title": "All the Bright Places",
+        "author": "Brett Haley",
+        "genre": "Fiction, Romance",
+        "available": "false"
+    },
+    {
+        "id": "3",
+        "title": "The Great Gatsby",
+        "author": "F. Scott Fitzgerald",
+        "genre": "Classic, Fiction",
+        "available": "true"
+    },
+    {
+        "id": "4",
+        "title": "A Study in Scarlet",
+        "author": "Arthur Conan Doyle",
+        "genre": "Mystery, Detective",
+        "available": "true"
+    }
+]
